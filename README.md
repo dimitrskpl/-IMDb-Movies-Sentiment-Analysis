@@ -1,1 +1,1 @@
-# -IMDb-Movies-Sentiment-Analysis
+# IMDb-Movies-Sentiment-Analysis
